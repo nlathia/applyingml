@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://applyingml.com/mentors/eugene-yan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/ethan-rosenthal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/neal-lathia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/pratik-bhavsar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/nirant-kasliwal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/susan-shu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/vicki-boykis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/willem-pienaar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/assorted-advice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/data-discovery/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/discovery-system-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/end-to-end/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/feature-stores/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/influencing-without-authority/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/ml-design-docs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/ml-production-challenges/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/ml-production-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/testing-ml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/personalization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/read-papers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/real-time-recommendations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/search-query-matching/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/why-what-how/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/papers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/alexey-grigorev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/daliana-liu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/mentors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://applyingml.com/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
